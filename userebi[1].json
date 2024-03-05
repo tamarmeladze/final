@@ -1,0 +1,34 @@
+[
+  {
+    "UserId": 1,
+    "Name": "tamarm",
+    "LastName": "meladze",
+    "PersonalNumber": "62001017016",
+    "Password": "6569",
+    "Balance": 10.0
+  },
+  {
+    "UserId": 2,
+    "Name": "giorgi",
+    "LastName": "meladze",
+    "PersonalNumber": "62001019103283",
+    "Password": "2648",
+    "Balance": 260.0
+  },
+  {
+    "UserId": 3,
+    "Name": "tamar",
+    "LastName": "meladze",
+    "PersonalNumber": "34434343",
+    "Password": "7111",
+    "Balance": 0.0
+  },
+  {
+    "UserId": 4,
+    "Name": "tamar",
+    "LastName": "mel",
+    "PersonalNumber": "33333",
+    "Password": "5794",
+    "Balance": 44.0
+  }
+]
